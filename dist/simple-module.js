@@ -1,5 +1,5 @@
 /**
- * simple-module v3.0.4
+ * simple-module v3.0.5
  * http://mycolorway.github.io/simple-module
  *
  * Copyright Mycolorway Design
